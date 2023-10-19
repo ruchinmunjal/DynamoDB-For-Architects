@@ -12,7 +12,7 @@ TABLE_NAME = args[0]
 JSON_FILE_PATH  = args[1]
 
 # Create a local  DDB resource
-dynamodb = boto3.resource("dynamodb", region_name="localhost", endpoint_url="http://localhost:8000", aws_access_key_id="access_key_id", aws_secret_access_key="secret_access_key")
+dynamodb = boto3.resource("dynamodb", region_name="localhost", endpoint_url="http://localhost:8000") #aws_access_key_id="access_key_id", aws_secret_access_key="secret_access_key"
 
 # Use this for adding data to table in AWS cloud
 # dynamodb = boto3.resource('dynamodb')
