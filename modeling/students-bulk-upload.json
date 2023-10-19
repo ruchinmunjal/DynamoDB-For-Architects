@@ -7,5 +7,84 @@
             "history",
             "physics"
         ]
+    },
+    {
+        "email": "rajeev@xyz.com",
+        "name": "rajeev sinha",
+        "grade": 9,
+        "courses": [
+            "maths",
+            "physics"
+        ]
+    },
+    {
+        "email": "failed@xyz.com",
+        "name": "looser Joe",
+        "grade": 1,
+        "courses": [
+            "arts",
+            "history"
+        ]
+    },
+    {
+        "email": "awesome@xyz.com",
+        "name": "Awesome Joe",
+        "grade": 1,
+        "courses": [
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    {
+        "email": "best@xyz.com",
+        "name": "Best Joe",
+        "grade": 10,
+        "courses": [            
+            "Chemistry"
+        ]
+    },
+    {
+        "email": "mediocre@xyz.com",
+        "name": "Mediocre Joe",
+        "grade": 5,
+        "courses": [
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    {
+        "email": "average@xyz.com",
+        "name": "Average Joe",
+        "grade": 7,
+        "courses": [
+            "Particle Physics",
+            "Theoritical Physics"
+        ]
+    },
+    {
+        "email": "lawyer@xyz.com",
+        "name": "Lawyer Joe",
+        "grade": 8,
+        "courses": [
+            "Corporate law",
+            "Social Law"
+        ]
+    },
+    {
+        "email": "batman@xyz.com",
+        "name": "Bruce Wayne",
+        "grade": 10,
+        "courses": [
+            "All"
+        ]
+    },
+    {
+        "email": "ww@xyz.com",
+        "name": "Diana",
+        "grade": 10,
+        "courses": [
+            "All"
+        ]
     }
+
 ]
